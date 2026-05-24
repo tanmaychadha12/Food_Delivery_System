@@ -16,7 +16,7 @@ It allows users to register, view restaurants, browse menus, place orders, and c
 
 ---
 
-##Technologies Used
+## 🛠️ Technologies Used
 - Python
 - SQLite
 - Pandas
@@ -25,6 +25,6 @@ It allows users to register, view restaurants, browse menus, place orders, and c
 
 ---
 
-## Project Objective
+## 🎯 Project Objective
 
 The objective of this project is to build a basic food delivery management system using Python and SQLite while applying database management, data analysis, and visualization concepts to analyze customer orders and sales trends.
