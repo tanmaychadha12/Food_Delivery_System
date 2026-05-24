@@ -16,14 +16,15 @@ It allows users to register, view restaurants, browse menus, place orders, and c
 
 ---
 
-## 🛠️ Tech Stack
-- **Python 3**
-- **SQLite3** (built-in Python library)
+##Technologies Used
+- Python
+- SQLite
+- Pandas
+- Numpy
+- Matplotlib
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/FoodDeliverySystem.git
-   cd FoodDeliverySystem
+## Project Objective
+
+The objective of this project is to build a basic food delivery management system using Python and SQLite while applying database management, data analysis, and visualization concepts to analyze customer orders and sales trends.
